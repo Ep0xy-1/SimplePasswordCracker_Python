@@ -50,15 +50,6 @@ Please don't use it to attack real systems or steal passwords. Be cool 😎.
 
 ---
 
-## 💡 Ideas for Improvements
-
-- Add rainbow table lookup
-- Show guesses per second
-- Brute-force option (instead of dictionary)
-- Save logs to file
-
----
-
 Made with 🍵 + Python for cybersecurity beginners.
 
 Made in 16/07/2025
