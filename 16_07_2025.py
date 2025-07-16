@@ -4,7 +4,7 @@ import hashlib
 import time
 import threading
 import platform
-import os
+import os 
 
 # Hash methods
 HASH_METHODS = {
