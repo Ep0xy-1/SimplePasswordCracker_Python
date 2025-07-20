@@ -2,7 +2,7 @@
 
 This is a simple educational password cracker built in Python using Tkinter.  
 You can use it to test how fast weak passwords can be cracked based on hashes (MD5, SHA1, SHA256).
-
+ 
 ---
 
 ## 🚀 Features
